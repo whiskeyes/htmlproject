@@ -28,7 +28,7 @@ main {
 }
 
 /* Button Styling */
-button {
+.button {
     background-color: #4CAF50;
     color: white;
     padding: 10px 20px;
@@ -37,7 +37,7 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+.button:hover {
     background-color: #45a049;
 }
 
